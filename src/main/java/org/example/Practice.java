@@ -2,6 +2,9 @@ package org.example;
 
 public class Practice {
     public static void main(String[] args) {
+        System.out.println("Hello from practice");
+        //practising git
+        //changes are now from feature.
         System.out.println("Hello from branch2");
         System.out.println("Hey from Dimple");
         //checkin from DimpleM98
